@@ -1,1 +1,1 @@
-![codeguage](./Quiz%20Results/codeguage.png)
+<img src="./Quiz%20Results/codeguage.png" alt="codeguage" height="200">
